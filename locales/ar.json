@@ -1,0 +1,152 @@
+{
+  "layout": {
+    "home": "الرئيسية",
+    "categories": "التصنيفات",
+    "blogs": "المدونات",
+    "contact_us": "اتصل بنا"
+  },
+  "tooltip": {
+    "change_language": "تغيير اللغة",
+    "change_theme": "تغيير السمة",
+    "cart": "عربه التسوق"
+  },
+  "menu": {
+    "your_profile": "ملفك الشخصي",
+    "dashboard": "لوحة القيادة",
+    "sign_out": "تسجيل الخروج"
+  },
+  "btn": {
+    "login": "تسجيل الدخول",
+    "continue_with_google": "المتابعة مع جوجل",
+    "sign_in": "تسجيل الدخول",
+    "sign_up": "تسجيل جساب جديد",
+    "remove": "إزالة",
+    "apply": "تطبيق",
+    "learn_more": "اعرف المزيد",
+    "close": "إغلاق",
+    "send_message": "أرسل رسالة"
+  },
+  "auth": {
+    "sign_in_to_your_account": "تسجيل الدخول إلى حسابك",
+    "or": "أو",
+    "create_free_account": "إنشاء حساب مجاني",
+    "continue_with": "المتابعة مع",
+    "email_address": "عنوان البريد الإلكتروني",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "already_have_an_account": "هل لديك حساب بالفعل؟"
+  },
+  "placeholder": {
+    "your_email": "بريدك الإلكتروني",
+    "your_password": "كلمة المرور الخاصة بك",
+    "your_name": "اسمك",
+    "your_phone": "رقم الهاتف الخاص بك",
+    "your_message": "رسالتك"
+  },
+  "cart": {
+    "shopping_cart": "سلة التسوق",
+    "your_cart_is_empty": "سلة التسوق الخاصة بك فارغة",
+    "quantity": "الكمية",
+    "subtotal": "المجموع الفرعي",
+    "shipping_and_taxes_calculated_at_checkout": "تكلفة الشحن والضرائب محسوبة عند الخروج",
+    "continue_shopping": "متابعة التسوق",
+    "start_shopping": "ابدأ التسوق"
+  },
+  "home": {
+    "shop_by_brand": "تسوق حسب العلامة التجارية",
+    "activewear_for_your_coolness": "ملابس رياضية لأناقتك",
+    "large_collections_of_activewear_explore_the_outside": "مجموعات كبيرة من الملابس الرياضية استكشف الخارج",
+    "too_cool_hipster_kids_clothes": "ملابس الأطفال الهيبستر الرائعة جدًا",
+    "every_kid_needs_this_place_it_is_fun_inside_check_out_the_coolest_kids": "كل طفل يحتاج إلى هذا المكان. إنه ممتع في الداخل",
+    "a_never_ending_sunglasses_season": "موسم النظارات الشمسية اللانهائي",
+    "on_any_and_all_occasions_the_right_pair_of_shades_will_elevate_your_days_out": "في أي مناسبة، سترتقي الزوج المناسب من النظارات أيامك",
+    "accessories_and_bags": "الإكسسوارات والحقائب",
+    "sharpening_up_your_fashion_look_with_these_statement": "تحسين مظهرك الأنيق بتلك البيانات",
+    "express_deals": "صفقات سريعة",
+    "get_it_by": "احصل عليه خلال",
+    "off": "خصم",
+    "new_arrivals": "وصل حديثا",
+    "browse_this_extraordinary_women’s_dresses_assortment": "تصفح هذا التشكيل الاستثنائي من فساتين النساء",
+    "from_this_exceptional_assortment_choose_your_ideal_dress_and_be_whatever_you_desire": "اختر فستانك المثالي من هذا التشكيل الاستثنائي وكن ما ترغب فيه",
+    "shop_stylish_winter_wear_with_no_wallet_worries": "تسوق ملابس الشتاء الأنيقة دون قلق مالي",
+    "find_great_winter_season_looks_without_worrying_about_your_wallet_all_within_your_budget": "ابحث عن إطلالات رائعة لموسم الشتاء دون القلق بشأن محفظتك، كل ذلك ضمن ميزانيتك",
+    "unleash_the_fashionista_side_of_you_with_shein_products": "اطلق سراح جانب الأزياء الذي بداخلك مع منتجات شين",
+    "explore_an_incredible_collection_of_trendy_clothing_at_amazing_prices": "استكشف مجموعة لا تصدق من الملابس العصرية بأسعار مذهلة",
+    "find_the_best_womens_winter_boots_around": "ابحث عن أفضل أحذية الشتاء للنساء المتوفرة",
+    "make_a_statement_with_our_stunning_selection_of_womens_boots_they_are_the_best": "أبهر الجميع بتشكيلتنا الرائعة من أحذية النساء إنها الأفضل",
+    "users_feedback": "تعليقات المستخدمين",
+    "here_are_some_of_best_online_shopping_sites_for_you_in_the_world": "إليك بعض من أفضل مواقع التسوق عبر الإنترنت لك في العالم",
+    "billy_wade": "بيلي وايد",
+    "get_awesome_offers_on_new_collection_is_available_at_all_stores": "احصل على عروض رائعة على تشكيلة جديدة متاحة في جميع المتاجر",
+    "demean_phil": "ديمين فيل",
+    "festival_sale_has_lots_of_amazing_offer_for_men_and_women": "يقدم مهرجان البيع الكثير من العروض المذهلة للرجال والنساء",
+    "luke_hobbs": "لوك هوبس"
+  },
+  "blogs": {
+    "read_about_fashion": "اقرأ عن الأزياء",
+    "amr_mohamed": "عمرو محمد",
+    "march": "مارس",
+    "top_10_fashion_of_the_week": "أفضل 10 أزياء لهذا الأسبوع",
+    "best_brands_for_fashion": "أفضل العلامات التجارية للأزياء",
+    "fashion_tips_and_tricks": "نصائح وحيل الأزياء",
+    "some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_is_content": "نص مثالي سريع لبناء على عنوان البطاقة وتكوين جزء كبير من محتوى البطاقة",
+    "read_more": "اقرأ المزيد",
+    "testimonials": "شهادات",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_fugit_error_amet_numquam_iure_provident_voluptate_esse_quasi_veritatis_totam_voluptas_nostrum_quisquam_eum_porro_a_pariatur_veniam": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أدسيبيسينغ إيليت فوجيت، إرور أميت، نومكوا إيوره، بروفيدينت فولوبتاتيس، إسي كواسي فيريتاتيس، توتام فولوبتاس نوستروم، إكسبيديتا إكسبيديتا إيوم بورو إيوم، إيا بارياتور فينيام",
+    "lorem_ipsum_dolor_sit_amet_eos_adipisci_consectetur_adipisicing_elit_sed_ut_perspiciatis_unde_omnis": "لوريم إيبسوم دولور سيت أميت، إيوس أديبيسكي كونسيكتيتور أدسيبيسينغ إيليت، سيد أوت بيرسبيسياتيس أندي أومنيس",
+    "anna_morian": "آنا موريان",
+    "lisa_cudrow": "ليزا كودرو",
+    "teresa_may": "تيريزا ماي",
+    "john_smith": "جون سميث",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد، دو إيوسمود تمبور إنسيديدونت أوت لابوري إت دولوري",
+    "magna_aliqua_ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat_duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat": "ماغنا أليكوا أوت إنيم أد مينيم فينيام كويس نوسترود إكسيرسيتاسيون أولامكو لابوريس نيسي أوت أليكويب إكس إيا كومودو كونسيكوات دويس أوتي إيريور دولور إن ريبريهينديريت إن فولوبتات فيليت إسي سيلوم دولوري إيو فوجيات",
+    "nulla_pariatur_excepteur_sint_occaecat_cupidatat_non_proident_sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum": "نولا بارياتور إكسسيبتور سينت أوككايكات كوبيداتات نون برويدنت سونت إن كولبا كوي أوفيسيا ديسيرونت مولليت أنيم إيد إست لابوروم",
+    "lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسينغ إيليت",
+    "aliquam_tincidunt_mauris_eu_risus": "أليكوام تينكيدونت ماوريس إيو ريسوس"
+  },
+  "categories": {
+    "categories": "التصنيفات",
+    "women": "نساء",
+    "men": "رجال",
+    "electronics": "إلكترونيات",
+    "beauty": "الجمال",
+    "juniors_and_kids": "الصغار والأطفال",
+    "shop_by_brand": "تسوق حسب العلامة التجارية",
+    "express_deals": "صفقات سريعة",
+    "global_deals": "العروض العالمية",
+    "shop_by_category": "التسوق حسب الفئة",
+    "clothing": "الملابس",
+    "shoes": "الأحذية",
+    "watches_and_jewelry": "الساعات والمجوهرات",
+    "handbags_and_bags": "الحقائب والشنط",
+    "accessories": "الإكسسوارات",
+    "watches_and_accessories": "الساعات والإكسسوارات",
+    "make_a_statement_everyday_and_glam_up": "ابدأ في التميز كل يوم واجعل إطلالتك متألقة",
+    "make_your_outdoor_adventures_even_cooler": "اجعل مغامراتك في الهواء الطلق أكثر برودة",
+    "elevate_your_outfit_with_the_right_pair_of_sunglasses": "قم بتحسين مظهرك بالزوج المناسب من النظارات الشمسية",
+    "make_your_wrists_sparkle_with_the_best_watches_around": "اجعل معصمك يتألق بأفضل الساعات المتوفرة",
+    "shop_for_charming_baby_boy_apparel": "تسوّق للملابس الجذابة للأطفال الذكور",
+    "shop_for_charming_baby_girl_apparel": "تسوّق للملابس الجذابة للأطفال الإناث",
+    "new_arrivals": "وصل حديثا"
+  },
+  "contact_us": {
+    "contact_us": "اتصل بنا",
+    "get_in_touch_with_us": "تواصل معنا",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد، دو إيوسمود تمبور إنسيديدونت أوت لابوري إت دولوري",
+    "our_location": "موقعنا",
+    "maadi_cairo_egypt": "المعادي، القاهرة، مصر",
+    "phone_number": "رقم الهاتف",
+    "email_address": "عنوان البريد الإلكتروني"
+  },
+  "footer": {
+    "get_connected_with_us_on_social_networks": "اتصل بنا على وسائل التواصل الاجتماعي",
+    "online_to_make_your_journey_even_more_memorable_access_or_meet": "عبر الإنترنت لجعل رحلتك أكثر تذكرًا قم بالوصول أو اللقاء",
+    "contact": "اتصل",
+    "©_2024_copyright": "© حقوق النشر 2024:"
+  },
+  "validation": {
+    "email_address_is_required": "البريد الإلكتروني مطلوب",
+    "password_is_required": "كلمة المرور مطلوبة",
+    "username_is_required": "اسم المستخدم مطلوب"
+  }
+}

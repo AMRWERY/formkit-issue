@@ -1,0 +1,152 @@
+{
+  "layout": {
+    "home": "Home",
+    "categories": "Categories",
+    "blogs": "Blogs",
+    "contact_us": "Contact Us"
+  },
+  "tooltip": {
+    "change_language": "Change Language",
+    "change_theme": "Change Theme",
+    "cart": "Cart"
+  },
+  "menu": {
+    "your_profile": "Your Profile",
+    "dashboard": "Dashboard",
+    "sign_out": "Sign out"
+  },
+  "btn": {
+    "login": "Login",
+    "continue_with_google": "Continue with Google",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "remove": "Remove",
+    "apply": "Apply",
+    "learn_more": "Learn more",
+    "close": "Close",
+    "send_message": "Send Message"
+  },
+  "auth": {
+    "sign_in_to_your_account": "Sign in to your account",
+    "or": "or",
+    "create_free_account": "Create free account",
+    "continue_with": "continue with",
+    "email_address": "Email address",
+    "username": "Username",
+    "password": "Password",
+    "already_have_an_account": "Already have and account"
+  },
+  "placeholder": {
+    "your_email": "your email",
+    "your_password": "your password",
+    "your_name": "your name",
+    "your_phone": "your phone",
+    "your_message": "your message"
+  },
+  "cart": {
+    "shopping_cart": "Shopping cart",
+    "your_cart_is_empty": "Your cart is empty",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "shipping_and_taxes_calculated_at_checkout": "Shipping and taxes calculated at checkout",
+    "continue_shopping": "Continue Shopping",
+    "start_shopping": "Start Shopping"
+  },
+  "home": {
+    "shop_by_brand": "Shop by Brand",
+    "activewear_for_your_coolness": "Activewear For Your Coolness",
+    "large_collections_of_activewear_explore_the_outside": "Large collections of activewear Explore the outside",
+    "too_cool_hipster_kids_clothes": "Too cool hipster kids clothes",
+    "every_kid_needs_this_place_it_is_fun_inside_check_out_the_coolest_kids": "Every kid needs this place It’s fun inside Check out the coolest kids",
+    "a_never_ending_sunglasses_season": "A Never Ending Sunglasses Season",
+    "on_any_and_all_occasions_the_right_pair_of_shades_will_elevate_your_days_out": "On any and all occasions the right pair of shades will elevate your days out",
+    "accessories_and_bags": "Accessories and Bags",
+    "sharpening_up_your_fashion_look_with_these_statement": "Sharpening up your fashion look with these statement",
+    "express_deals": "Express Deals",
+    "get_it_by": "Get it by",
+    "off": "off",
+    "new_arrivals": "New Arrivals",
+    "browse_this_extraordinary_women’s_dresses_assortment": "Browse this extraordinary Women’s dresses assortment",
+    "from_this_exceptional_assortment_choose_your_ideal_dress_and_be_whatever_you_desire": "From this exceptional assortment choose your ideal dress and be whatever you desire",
+    "shop_stylish_winter_wear_with_no_wallet_worries": "Shop stylish winter wear with No wallet worries",
+    "find_great_winter_season_looks_without_worrying_about_your_wallet_all_within_your_budget": "Find great winter season looks without worrying about your wallet All within your budget",
+    "unleash_the_fashionista_side_of_you_with_shein_products": "Unleash the fashionista side of you with SHEIN products",
+    "explore_an_incredible_collection_of_trendy_clothing_at_amazing_prices": "Explore an incredible collection of trendy clothing at amazing prices",
+    "find_the_best_womens_winter_boots_around": "Find the Best Women's Winter Boots around",
+    "make_a_statement_with_our_stunning_selection_of_womens_boots_they_are_the_best": "Make a statement with our stunning selection of women's boots, they're the best",
+    "users_feedback": "Users Feedback",
+    "here_are_some_of_best_online_shopping_sites_for_you_in_the_world": "Here are some of best online shopping sites for you in the world",
+    "billy_wade": "Billy Wade",
+    "get_awesome_offers_on_new_collection_is_available_at_all_stores": "Get awesome offers on new collection is available at all stores",
+    "demean_phil": "Demean Phil",
+    "festival_sale_has_lots_of_amazing_offer_for_men_and_women": "Festival sale has lots of amazing offer for men and women",
+    "luke_hobbs": "Luke Hobbs"
+  },
+  "blogs": {
+    "read_about_fashion": "Read About Fashion",
+    "amr_mohamed": "Amr Mohamed",
+    "march": "March",
+    "top_10_fashion_of_the_week": "Top 10 Fashion of the Week",
+    "best_brands_for_fashion": "Best brands for fashion",
+    "fashion_tips_and_tricks": "Fashion Tips & Tricks",
+    "some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_is_content": "Some quick example text to build on the card title and make up the bulk of the card's content",
+    "read_more": "Read More",
+    "testimonials": "Testimonials",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_fugit_error_amet_numquam_iure_provident_voluptate_esse_quasi_veritatis_totam_voluptas_nostrum_quisquam_eum_porro_a_pariatur_veniam": "Lorem ipsum dolor sit amet consectetur adipisicing elit Fugit error amet numquam iure provident voluptate esse quasi veritatis totam voluptas nostrum quisquam eum porro a pariatur veniam",
+    "lorem_ipsum_dolor_sit_amet_eos_adipisci_consectetur_adipisicing_elit_sed_ut_perspiciatis_unde_omnis": "Lorem ipsum dolor sit amet eos adipisci consectetur adipisicing elit sed ut perspiciatis unde omnis",
+    "anna_morian": "Anna Morian",
+    "lisa_cudrow": "Lisa Cudrow",
+    "teresa_may": "Teresa May",
+    "john_smith": "John Smith",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore": "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore",
+    "magna_aliqua_ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat_duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat": "magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+    "nulla_pariatur_excepteur_sint_occaecat_cupidatat_non_proident_sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum": "nulla pariatur Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+    "aliquam_tincidunt_mauris_eu_risus": "Aliquam tincidunt mauris eu risus"
+  },
+  "categories": {
+    "categories": "Categories",
+    "women": "Women",
+    "men": "Men",
+    "electronics": "Electronics",
+    "beauty": "Beauty",
+    "juniors_and_kids": "Juniors & Kids",
+    "shop_by_brand": "Shop by Brand",
+    "express_deals": "Express Deals",
+    "global_deals": "Global Deals",
+    "shop_by_category": "Shop by Category",
+    "clothing": "Clothing",
+    "shoes": "Shoes",
+    "watches_and_jewelry": "Watches & Jewelry",
+    "handbags_and_bags": "Handbags & Bags",
+    "accessories": "Accessories",
+    "watches_and_accessories": "Watches & Accessories",
+    "make_a_statement_everyday_and_glam_up": "Make a statement everyday and Glam Up",
+    "make_your_outdoor_adventures_even_cooler": "Make your outdoor adventures even cooler",
+    "elevate_your_outfit_with_the_right_pair_of_sunglasses": "Elevate your outfit with the right pair of sunglasses",
+    "make_your_wrists_sparkle_with_the_best_watches_around": "Make your wrists sparkle with the best watches around",
+    "shop_for_charming_baby_boy_apparel": "Shop for charming Baby Boy apparel",
+    "shop_for_charming_baby_girl_apparel": "Shop for charming Baby Girl apparel",
+    "new_arrivals": "New Arrivals"
+  },
+  "contact_us": {
+    "contact_us": "Contact Us",
+    "get_in_touch_with_us": "Get In Touch With Us",
+    "lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore",
+    "our_location": "Our Location",
+    "maadi_cairo_egypt": "Maadi, Cairo, Egypt",
+    "phone_number": "Phone Number",
+    "email_address": "Email Address"
+  },
+  "footer": {
+    "get_connected_with_us_on_social_networks": "Get connected with us on social networks",
+    "online_to_make_your_journey_even_more_memorable_access_or_meet": "Online to make your journey even more memorable access or meet",
+    "contact": "Contact",
+    "©_2024_copyright": "© 2024 Copyright:"
+  },
+  "validation": {
+    "email_address_is_required": "email address is required",
+    "password_is_required": "password is required",
+    "username_is_required": "username is required"
+  }
+}
