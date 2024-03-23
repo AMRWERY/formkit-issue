@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@formkit/nuxt": "^1.6.0",
+    "@formkit/themes": "^1.6.0",
     "@nuxtjs/i18n": "^8.2.0",
     "@pinia/nuxt": "^0.5.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
@@ -29,8 +30,12 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.11.4",
+    "@tailwindcss/container-queries": "^0.1.1",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1"
+  },
+  "overrides": {
+    "unocss": "0.58.6"
   }
 }
