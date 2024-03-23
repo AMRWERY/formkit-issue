@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     "@nuxtjs/tailwindcss",
+    "nuxt-headlessui",
     "@pinia/nuxt",
     "@nuxtjs/i18n",
     "nuxt-icon",
@@ -20,6 +21,9 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
+  },
+  headlessui: {
+    prefix: "Headless",
   },
   pinia: {
     storesDirs: ["./stores/**", "./custom-folder/stores/**"],
